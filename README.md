@@ -1,44 +1,98 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Boilerplate para aplicações web com React e TypeScript
 
-## Available Scripts
+> Projeto com o intuito de agilizar criação de novas aplicações, fornecendo já a estrutura inicial
 
-In the project directory, you can run:
+<a href="https://github.com/joaovictorpsantos">
+<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-7159c1?style=flat-square">
+</a>
 
-### `yarn start`
+<a href="#">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
+</a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<a href="https://github.com/joaovictorpsantos/boilerplate_react_typescript/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
+</a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<a href="https://github.com/joaovictorpsantos/boilerplate_react_typescript/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
+</a>
 
-### `yarn test`
+<a href="#">
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
+</a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://github.com/joaovictorpsantos/boilerplate_react_typescript/commits/master">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
+</a>
 
-### `yarn build`
+<br/><br/>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<blockquote align="center">
+  Esse projeto é open-source, contribua você também :D
+</blockquote>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<hr/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💡 Sobre o projeto:
 
-### `yarn eject`
+Com o intuito de automatizar a configuração do EditorConfig, do ESLint, Prettier e de toda a estrutura do React com o TypeScript, esse boilerplate foi feito para que quando for iniciar uma aplicação nova, já possa reaproveitar toda a estrutura já configurada.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🔥 O que o boilerplate possui?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ✅ Estrutura inicial de um projeto React com TypeScript gerada pelo create-react-app
+- Configurações feitas:
+  - ✅ EditorConfig
+  - ✅ ESLint
+  - ✅ Prettier
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## ⚙️ Techs:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- React
+- TypeScript
 
-## Learn More
+## ⛏ Ferramentas:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [Visual Studo Code](https://code.visualstudio.com/download)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🏁 Executar esse projeto:
+
+Para executar esse projeto em sua máquina,
+De o clone no repositório:
+
+```bash
+ git clone https://github.com/joaovictorpsantos/boilerplate_react_typescript.git
+```
+
+Execute na raiz para baixar as dependências:
+
+```bash
+ yarn
+```
+
+E pronto, já poder utilizar!!
+
+<br/>
+
+<h4 align="center">
+  Vamos compartilhar conhecimento e crescer juntos!!!
+</h4>
+
+<br/>
+
+---
+
+<h3 align="center">
+Autor: <a alt="João Victor Pereira Santos" href="https://github.com/joaovictorpsantos">João Victor Pereira Santos</a>
+</h3>
+
+<p align="center">
+
+  <a alt="João Victor Pereira Santos Linkedin" href="https://www.linkedin.com/in/joao-victor-pereira-santos//">
+    <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Victor%20Pereira%20Santos-blue?logo=linkedin"/></a>
+  <a alt="João Victor Pereira Santos GitHub" href="https://github.com/joaovictorpsantos">
+  <img src="https://img.shields.io/badge/GitHub-joaovictorpsantos-lightgrey?logo=github"/></a>
+ <a alt="João Victor Pereira Santos Twitter" href="https://twitter.com/_joaovictorps">
+  <img src="https://img.shields.io/badge/Twitter-__joaovictorps-blue?logo=twitter"/></a>
+
+</p>
